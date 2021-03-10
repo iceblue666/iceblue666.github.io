@@ -1,3 +1,11 @@
+---
+title:Day 1---货舱选址(104)
+time:2021-01-14 21:29:00
+categories:算法
+tags:算法,ACWing,最小
+summary:ACWing寒假题目 Day01
+---
+
 # Day 1---货舱选址(104)
 
 ## 数学原理
